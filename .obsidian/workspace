@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e2da899a5702f6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf133c217c652cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "html-css-js/css/General Reset.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e6acaba2a18bacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "41118d13c07d1933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbb6d05b1945f610",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e62b77b9ee5b69e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e09cf11b1477f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ccaf0a8f25020a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da88183f0a15edf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "html-css-js/css/General Reset.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "daf133c217c652cc",
+  "lastOpenFiles": [
+    "html-css-js/css/General Reset.md"
+  ]
+}
