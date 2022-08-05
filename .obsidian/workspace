@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "html-css-js/css/space-tourism/Custom CSS Properties and Utility Class.md",
-            "mode": "preview",
+            "file": "html-css-js/javascript/Javascript Foundations.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e09cf11b1477f72",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html-css-js/css/space-tourism/Custom CSS Properties and Utility Class.md",
+                "file": "html-css-js/javascript/Javascript Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,8 @@
   },
   "active": "daf133c217c652cc",
   "lastOpenFiles": [
+    "html-css-js/css/space-tourism/Custom CSS Properties and Utility Class.md",
+    "html-css-js/css/notes/Inheritance.md",
     "html-css-js/css/General Reset.md"
   ]
 }
