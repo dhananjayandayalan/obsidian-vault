@@ -53,6 +53,3 @@
 
 # ECMAScript
 - Standardization to create the js engine which works universally, (it's entirely upto the developers how they're gonna fullfil the requirements).
-
-
-
