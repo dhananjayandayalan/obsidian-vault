@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "daf133c217c652cc",
+        "id": "abadd592b926c32e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "html-css-js/javascript/Javascript Foundations.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,12 +45,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0e09cf11b1477f72",
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html-css-js/javascript/Javascript Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +83,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "daf133c217c652cc",
+  "active": "4e62b77b9ee5b69e",
   "lastOpenFiles": [
+    "accessibility-notes/Accessibility.md",
+    "html-css-js/javascript/Javascript Foundations.md",
+    "Excalidraw/Drawing 2022-09-08 15.26.03.excalidraw.md",
     "html-css-js/css/space-tourism/Custom CSS Properties and Utility Class.md",
     "html-css-js/css/notes/Inheritance.md",
     "html-css-js/css/General Reset.md"
