@@ -53,3 +53,9 @@
 
 # ECMAScript
 - Standardization to create the js engine which works universally, (it's entirely upto the developers how they're gonna fullfil the requirements).
+
+
+# Call Stack & Memory Heap
+- Memory heap as a place to **Store & Write Information**. 
+- Call Stack helps us to **keep track of wherewe are in the code** so that we can run the code in order.
+- 

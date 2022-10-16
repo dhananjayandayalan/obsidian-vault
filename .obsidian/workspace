@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abadd592b926c32e",
+        "id": "c2df8aa76ca4a88d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "html-css-js/javascript/Javascript Foundations.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "html-css-js/javascript/Javascript Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,18 +79,28 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "83b2bbd1026f43ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4e62b77b9ee5b69e",
+  "active": "c2df8aa76ca4a88d",
   "lastOpenFiles": [
-    "accessibility-notes/Accessibility.md",
+    "html-css-js/javascript/Untitled.md",
     "html-css-js/javascript/Javascript Foundations.md",
+    "accessibility-notes/Accessibility.md",
     "Excalidraw/Drawing 2022-09-08 15.26.03.excalidraw.md",
     "html-css-js/css/space-tourism/Custom CSS Properties and Utility Class.md",
     "html-css-js/css/notes/Inheritance.md",
