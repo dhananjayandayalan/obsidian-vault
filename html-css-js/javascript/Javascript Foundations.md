@@ -58,4 +58,11 @@
 # Call Stack & Memory Heap
 - Memory heap as a place to **Store & Write Information**. 
 - Call Stack helps us to **keep track of wherewe are in the code** so that we can run the code in order.
-- 
+- Call stack literally works like stack (Last in first out) executes functions and variables in stacked order.
+- Calling multiple functions inside one will cause ***Stack Overflow***. 
+- Javascript is a Garbage Collective language (basically it'll cleanup the unused variables).
+- Mark and Sweep algorithms used for Garbage Collection.
+- Mark what we need and Sweep what we don't need.
+- Javascript is a single threaded language.
+- With Single threaded synchronous code, It's tough to handle large codebase.
+- Until the call stack got empty, can't perform any other tasks.
