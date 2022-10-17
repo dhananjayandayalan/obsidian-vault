@@ -66,3 +66,34 @@
 - Javascript is a single threaded language.
 - With Single threaded synchronous code, It's tough to handle large codebase.
 - Until the call stack got empty, can't perform any other tasks.
+
+
+# Javascript Runtime
+- Every Browser has it's own Javascript Runtime.
+- Web API's in browser are Asynchronous, it'll get handled seperately, then added to callback queue, waiting for the call stack to get empty, to send it to call stack.
+
+## Execution Context
+
+- Global execution context will execute first.
+- Then, every other function will get added to call stack
+- Global execution context gives Global Object & this.
+
+### Lexical Environment
+
+- Where we write code.
+- Main code will present inside global context.
+
+### Hoisting
+
+- Moves all variable and function declarations to the top of the script in the current scope before execution.
+- Only declarations are hoisted and not initializations.
+- Variable initialized with **var** are assigned with ***undefined***. But that's not the case for **let** and **const**.
+- Only **Function Declaration** can be hoisted and not the **Function Expressions**.
+
+### Function Invocation
+
+- ***arguments*** got invoked in a function.
+- But we need to avoid using **arguments**.
+- ***arguments*** is not an array but an object.
+
+### Scope
